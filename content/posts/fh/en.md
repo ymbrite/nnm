@@ -1,7 +1,7 @@
 ---
 title: 战马
 slug: fh
-lang: zh
+lang: en
 date: 2026-02-17 15:39:00
 updated: 2026-02-17 15:39:00
 categories:
