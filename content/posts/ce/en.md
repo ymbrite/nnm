@@ -1,7 +1,7 @@
 ---
 title: 稀奇古怪的中国经济
 slug: ce
-lang: zh
+lang: en
 date: 2026-02-17 15:53:00
 updated: 2026-02-17 15:53:00
 categories:
